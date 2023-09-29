@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "ahmed",
+        "email": "omer@gamil.com",
+        "password": "$2y$10$TPtoPhZQXBo2r8Ebx.IFHumlC28l4eFo1c\/pFm3m\/9eVjiNIfozMy"
+    },
+    {
+        "id": 2,
+        "name": "info@gamil.com",
+        "email": "ahmed@gamil.com",
+        "password": "$2y$10$pK6CDg2uYg6cCwfhHgtmSef9HdlGiSFmGrP2jNH\/2GpjJUMpgLFkm"
+    },
+    {
+        "id": 3,
+        "name": "admin",
+        "email": "adminadmin@email.com",
+        "password": "$2y$10$a1acO9Bp9UWIxzcDFY.IHuiXNEB.fipoqHCVYHO3d3aGylX43X5Hq"
+    },
+    {
+        "id": 4,
+        "name": "signhygiene@gamil.com",
+        "email": "ahmed@gamil.com",
+        "password": "$2y$10$oCSaXzgyfZglUBQPIrqDOePLaRkA1e93MlH9c.nqOy20fTCR6pFKG"
+    },
+    {
+        "id": 5,
+        "name": "omer@gamil.com",
+        "email": "ahmed@gamil.com",
+        "password": "$2y$10$lvCg0UDn7CYD5MLftXx1LOX91f7taVpVaxddEpZ6\/Qzzlhmo9XCl2"
+    },
+    {
+        "id": 6,
+        "name": "ahmed",
+        "email": "ahmed@gamil.com",
+        "password": "$2y$10$INXqbm5h6FTBS8yK3bTr7eVOEVub7tsKIhYM\/4fUgVgLKhU0fVxUW"
+    },
+    {
+        "id": 7,
+        "name": "ahmedel",
+        "email": "ahmed@gamil.com",
+        "password": "$2y$10$\/D0rgusCZZ8QxcWVD4.L7ukZSLJ7vnb2DcqK1H14WxDNidlsirbkC"
+    }
+
+]
